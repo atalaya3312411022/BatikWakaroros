@@ -17,21 +17,22 @@ class LoginController extends Controller
     {
         $credentials = $request->only('email', 'password');
 
-        if (Auth::attempt($credentials)) {
+        // Login menggunakan guard admin
+        if (Auth::guard('admin')->attempt($credentials)) {
             $request->session()->regenerate();
-            return redirect()->intended('/');
+            return redirect()->intended('/admin/dashboard'); // arahkan ke dashboard admin
         }
 
         return back()->withErrors([
-            'email' => 'Login gagal!'
+            'email' => 'Login gagal, email atau password salah.'
         ])->withInput();
     }
 
     public function logout(Request $request)
     {
-        Auth::logout();
+        Auth::guard('admin')->logout(); // Logout juga pakai guard admin
         $request->session()->invalidate();
         $request->session()->regenerateToken();
-        return redirect('/');
+        return redirect('/admin/login');
     }
-} 
+}
