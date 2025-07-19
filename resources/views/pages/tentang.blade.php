@@ -11,17 +11,11 @@
       <strong>Batik Wakaroros</strong> adalah UMKM yang berdedikasi untuk melestarikan dan mengembangkan warisan budaya batik khas daerah kami. Berdiri sejak 2020, kami menghadirkan produk batik berkualitas tinggi dengan sentuhan motif eksklusif yang terinspirasi dari kekayaan budaya lokal.
     </p>
     <p class="mb-5 text-lg text-gray-800 leading-relaxed text-justify">
-      Setiap produk Batik Wakaroros dibuat dengan penuh cinta oleh pengrajin berpengalaman, menggunakan bahan pilihan dan pewarna alami yang ramah lingkungan. Kami percaya, batik bukan hanya kain, tapi juga identitas dan kebanggaan bangsa.
-    </p>
-    <blockquote class="border-l-4 border-[#B8860B] pl-4 italic text-[#8B0000] font-medium mb-5 bg-[#fffbe6] py-2">
-      &nbsp;"Bersama, kita lestarikan budaya, ciptakan karya, dan banggakan Indonesia!"
-    </blockquote>
-    <p class="mb-5 text-lg text-gray-800 leading-relaxed text-justify">
-      Selain memproduksi batik, kami juga aktif dalam pelatihan dan pemberdayaan masyarakat sekitar, agar tradisi batik terus hidup dan berkembang di generasi muda.
+      Motif batik Wakaroros berasal dari akar tanaman pakis yang menjuntai di pedalaman Kutai Timur, dan disebut akar oros. Dari tanaman tersebut, muncullah ide kreatif dari seorang pelukis bernama Agung, seorang guru seni lukis di SMA Negeri 1 Sangatta Utara, pada tahun 2009. Ia memfasilitasi masyarakat yang berminat untuk membatik dan membimbing mereka menjadi wirausahawan batik, agar ide motif batik tersebut dapat dilestarikan sebagai usaha UMKM Batik Kutai Timur.
     </p>
     <div class="flex flex-wrap gap-2 mt-6 justify-center">
       <span class="inline-block bg-[#8B0000] text-white px-4 py-1 rounded-full text-sm font-semibold">#BatikLokal</span>
-      <span class="inline-block bg-[#B8860B] text-white px-4 py-1 rounded-full text-sm font-semibold">#UMKMIndonesia</span>
+      <span class="inline-block bg-[#B8860B] text-black px-4 py-1 rounded-full text-sm font-semibold">#UMKMIndonesia</span>
       <span class="inline-block bg-gray-200 text-[#8B0000] px-4 py-1 rounded-full text-sm font-semibold">#BanggaBerkarya</span>
     </div>
   </div>
