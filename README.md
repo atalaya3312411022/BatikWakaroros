@@ -88,6 +88,9 @@ sebagai bagian dari pembelajaran pengembangan aplikasi berbasis web menggunakan 
 Saat ini, sistem masih dalam proses pengembangan dan optimalisasi lebih lanjut untuk menyempurnakan fitur dan tampilan.  
 Proyek ini terbuka untuk ditinjau dan dijadikan referensi edukatif.
 
+[Video Presentasi](https://youtu.be/VICtyVJuXe8?si=RHAB2LsktTdFCzNd)
+
+
 ---
 
 ## :pushpin: Lisensi
