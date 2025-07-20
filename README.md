@@ -90,6 +90,8 @@ Proyek ini terbuka untuk ditinjau dan dijadikan referensi edukatif.
 
 [Video Presentasi](https://youtu.be/VICtyVJuXe8?si=RHAB2LsktTdFCzNd)
 
+[Demo/Showcase Video](https://youtu.be/bgumm9X8ftE?si=o0TxfUydmgRPgDZj)
+
 
 ---
 
